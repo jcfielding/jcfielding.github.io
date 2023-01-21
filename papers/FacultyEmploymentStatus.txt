@@ -1,0 +1,179 @@
+Putting the employment status of faculty into the quality of education: A Canadian case study 
+by Mostafa Hasrati 
+
+
+ABSTRACT KEYWORDS 
+Drawing on qualitative data, this case study explores how the pre-Neoliberalism; quality carious employment status of college contract instructors in Canada assurance; marketing higher 
+education; precarity; 
+pushes them to consider bypassing some policies and affects their 
+internationalisation
+well-being, both of which could negatively influence the quality of education. Since keeping abreast with internationalisation requires addressing quality assurance, it seems that demographic data on the employment status and well-being of academic staff should be incorporated in quality assurance procedures. 
+
+Introduction 
+Neoliberalism is an endeavour to provide a free global market by ‘[privatising] virtually every process or service that can possibly be turned over to private capital’ (Torres & Rhoads, 2006, p. 8). This commodity approach has affected higher education in many ways, two of which seem to be antithetical. First, it has emphasised a reduction in costs (Lama & Joullié, 2015), most importantly by reducing permanent academic positions and increasing temporary appointments [e.g. in Ireland (Courtois & O’Keefe, 2015), Canada (Kane Xavier, 2014), the U.K. (Allmer, 2018; Crawford & Germov, 2015), and Australia (Brown et al., 2010; Robertson & Fyffe, 2019)]. In the United States, 70% of college academic staff were reported to be ‘contingent’, i.e. on temporary contracts (American Federation of Teachers, W. D, 2008). The second impact of neoliberalism has been an emphasis on increasing profits through marketing higher education, mainly by raising quality (Widarsyah et al., 2017).
+
+Quality assurance is rooted in the neoliberal ideals for commodifying anything that can be bought and sold, including education (Altbach, 2004). This commodity approach to education has received strong opposition (Aronowitz & Giroux, 2000), yet institutions around the world have increasingly come to rely on tuition fees of home and, more importantly, international students. Ross (2008, p. 34) reports that the global higher education market in 2008 was estimated to be worth between 40 to 50 billion dollars, attesting to the significance of this market. In 2017, there were 3.7 million overseas students in OECD universities, of which 40% studied in the USA (985,000), the UK (436,000), Australia (381,000) and Canada (210,000) (OECD, 2019, pp. 233–4). In Canada, while the number of international students at all levels increased, this growth was more pronounced in colleges, marking a 62% rise from 2015 to 2016 (Table 1) (Data from: Government of Canada, Economic Impact of International Education in Canada – 2017 Update). 
+Higher education institutions first need to attain international status to participate in this global competition. DeWit et al. (2015) define internationalisation as ‘the intentional process of integrating an international, intercultural or global dimension into the purpose, functions and delivery of post-secondary education, in order to enhance the quality of education and research for all students and staff, and to make a meaningful contribution to society’ (p. 29). Ryan (2011) contests this intercultural approach, arguing it is based on a ‘skills deficit’ perspective, i.e. Western academic culture is deemed to be superior, so international students should simply adopt it. She suggests a ‘transcultural approach’ where both international students and Western academics learn from each other. 
+Though emanating from different theoretical positions, assumptions of internationalisation emphasise enhancing quality for both ‘students’ and ‘staff’. An important aspect of quality for staff is their well-being, which is negatively affected by lack of permanent contracts (Jin et al., 2021), a situation prevalent in Ontario, Canada. Although it is difficult to find detailed relevant data, a quick estimate of the large number of courses offered each semester compared to the low number of full-time instructors indicates a huge gap, pointing to the high percentage of contract instructors in these colleges. The seniority list of partial-load instructors at George Brown College, Toronto, includes around 770 names (OPSEU Local 556, 2019). At Humber College in Toronto, the list for full-time instructors has around 600 names, while that for partial-load instructors contains over 2000 names (OPSEU Local 562, 2021). Given the significant role of instructors in implementing policies that assure quality, it seems necessary to factor in the employment status and well-being of academic staff in discussions on quality assurance and accreditation. 
+
+Table 1. Breakdown of post-secondary international students in Canada. 
+2015  2016  Percentage Change  
+Colleges  66,315  107,625  +62  
+Universities (Bachelor’s)  119,306  124,042  +4  
+Universities (Master’s)  36,414  38,040  +4.4  
+Universities (Doctorate)  20,000  20,983  +5  
+
+Theoretical background 
+Quality assurance as a marketing strategy 
+Though having always been an important issue, quality assurance is now a significant marketisation tool (Holmwood & Marcuello Servós, 2019; Roller et al., 2003). In fact, quality is often a benchmark that students consult when choosing a university or college (Abbott & Silles, 2016). This explains why universities have developed procedures to substantiate their quality, most importantly through accreditation – a multi stage process in order to hold institutions accountable to assess, achieve, maintain, and improve quality (Jackson et al., 2010). As Cheng (2017) argues, two important defining features of quality, ‘fitness for purpose’ and ‘value for money’, are now deemed essential components of post-secondary institutions. 
+In the US, institutions initially got accredited by merely obtaining membership in university associations, which was later modified by adding periodic reviews to maintain quality. Accreditation now includes ‘a mission-based approach, standards, a self-study prepared by the institution, a visit by a team of peers who produce a report, and a decision by a commission overseeing the process of periodic review’ (Brittingham, 2009, pp. 14–15). Zammuto (2008, p. 266) regards this ‘mission-based approach’ as an effective marketisation technique through which institutions clearly specify the ‘services’ they provide to their ‘customers’. 
+Another development has been an outcomes-based approach to student learning. This requires that institutions pay particular attention to knowledge acquisition, skills development, and behavioural changes in how students think (Jackson et al., 2010, p. 15). If we assume that students make an investment in education to later use for employment (Saunders & Blanco Ramirez, 2017, p. 190), the outcomes-based approach can be regarded as another attempt to improve quality and address customers’ needs. 
+In Canada, a national accreditation system has never been in place due to constitutional constraints (Baker & Miosi, 2010), and mere membership in AUCC (The Association of Universities and Colleges in Canada) has been the benchmark for accreditation and evaluation of Canadian degrees (Marshall, 2004, p. 89). This has pushed some Canadian institutions to seek accreditation by U.S. associations. Blanco Ramírez and Luu (2018) report that 60 Canadian colleges and universities and 95 academic programmes are accredited by U.S. organisations, mainly in an effort to attract international students. This seems to have been a response to Marshall’s (2004, pp. 92–3) warning that the lack of a national accreditation system might jeopardise the Canadian higher education share of overseas students. 
+Another quality assurance mechanism is student surveys (Alderman et al., 2012), often run to evaluate instructors. Although feedback from students is mainly designed to improve the quality of teaching, significant bias has also been reported (Macfadyen et al., 2016). It seems that student surveys, which are intended to raise quality, could act as a mechanism to lower quality. For instance, various studies have found a strong link between student feedback and grading leniency (Brockx et al., 2011; Griffin, 2004; Simpson & Siguaw, 2000; Stroebe, 2016). It is also interesting to note that in studies where tuition-paying students are present (e.g. Simpson & Siguaw, 2000) grading leniency is more prevalent than in contexts where higher education is free (e.g. Flodén, 2017). 
+
+Lowering costs by lowering full-time appointments 
+Although the concept of a globally common ‘big-N Neoliberalism’ has largely given way to an ‘indefinite number of small-n neoliberalisms’ within specific national borders (Wacquant, 2012, p. 70), it is possible to outline three main impacts of neoliberalism on higher education: ‘revenue generation, understanding students as customers, and construing . . . faculty as temporary service providers’ (Saunders & Blanco Ramirez, 2017, 
+p. 189). These have transformed the ontological bases of universities from places where a group of people get together for ‘higher learning’ and ‘nation building’ to ‘business corporations’ competing with other institutions (Shore & Davidson, 2014, p. 13). 
+
+The casualisation of academic staff to reduce costs and increase profitability greatly affects staff well-being (Jin et al., 2021), which in turn could potentially lower the quality of education. Courtois and O’Keefe (2015) report chronic stress, anxiety, and depression among casual higher education workers in Ireland. Bal et al. (2014) found that neoliberal management in the Netherlands has led to job insecurity and increased pressure on academic staff. Hill (2005) observes both direct negative effects such as differential treatment and a comparatively lower pay, and indirect consequences such as difficulty accessing loans and mortgages due to casual staff’s unstable employment status. This endeavour to reduce costs can be most vividly observed in the U.K., where universities hire temporary academic staff through an agency called ‘Unitemps’ (Holmwood & Marcuello Servós, 2019, p. 316). 
+
+
+Methodology 
+Agar (1996, p. 32) refers to ‘rich points’ as observations that inspire research studies. The rich point for this study were emails from college students corroborating a ‘client-service provider’ relationship, which served as an initial deductive phase of the current qualitative research. In order to further investigate this issue, more qualitative data were collected to engage in a systematic inductive analysis. 
+The data consist of 156 emails from college students to the researcher and 12 qualitative interviews with contract instructors in three colleges in Ontario. The content analysis of the email data indicated that most students assumed a ‘client-service provider’ relationship in the college setting. For instance, there were various references to payment of tuition fees, which the students believed would entitle them to certain rights. When penalised for late submission, a student emailed the researcher to highlight this relationship: 
+I am paying for my tuition, so I don’t think it really matters if I do my assignments a bit late. 
+Another instance of this ‘client-service provider’ relationship was manifested by an assumption that registering in a course and paying the fees would entitle the student to receiving a degree without having to attend lectures: 
+I am very busy with work so I haven’t had time to attend class. I feel I haven’t been given much direction on [. . .] assignment. Can you record [a video of] the instructions and put it on Blackboard? 
+This theme was subsequently used to develop an ‘interview guide’ (Kvale, 1996, p. 129) to explore the following question: 
+What considerations do contract instructors have in their enactment of educational policies? 
+To answer this question, semi-structured interviews were conducted with 12 contract instructors, lasting between 40 to 60 minutes (Appendix). At the end of each interview, the data were transcribed and thematically coded (Glaser & Strauss, 1967), and the interview guide was accordingly revised prior to the next interview. In addition, new themes brought up throughout the interviews were also explored. Member checking was conducted with four of the participants to further validate the interpretations (King et al.,  2019). For instance, a participant compared ‘colleges’ to ‘industries’ (Participant 3), which was coded as ‘commodification of education’. This interpretation was confirmed when discussed in a follow-up meeting. Finally, the participants signed a consent form and could withdraw from the study at any point. 
+Three main themes emerged that will be used as subheadings in the results section. It should be pointed out that the results only describe a case, and no claim of generalisability is made. However, this can be a ‘telling case . . . whereby [a] general theory may be developed’ (Mitchell, 1984, p. 239) to illustrate why the demographic data on the employment status of instructors need to be incorporated in quality assurance procedures in higher education. From an epistemological perspective, this study adheres to a social constructivist position in believing that knowledge construction draws on contextual features, including the role of the researcher in developing themes and analyses (Charmaz, 2000). Aligned with a reflexive approach to qualitative research, I acknowledge to be ‘part of the social world’ I am investigating (Atkinson & Hammersley, 2007; Berg, 2001). More importantly, I regard myself as the ‘primary research tool’ (Ball, 1990, p. 157) in the process of this study. 
+
+The context 
+There are three types of non-full-time contractual arrangements for college academic staff in Ontario. Instructors teaching one to six hours per week are called ‘contract instructors’. This group is not entitled to any benefits, yet they can indefinitely teach in the same college as long as there are courses available. Instructors teaching 7 to 12 hours per week are referred to as ‘partial-load’. This group is unionised, so they enjoy some rights and benefits. For instance, there is a ‘partial-load registry’ that prioritises partial-load instructors for teaching contracts and new full-time positions. Finally, ‘sessional’ instructors have a teaching load of 13 to 18 hours per week, but they are not unionised or entitled to benefits. ‘Sessional’ appointments are limited to a maximum of 12 months, so once a sessional instructor ‘hits the sessional wall’ after 12 months, the college will not offer them a sessional contract for at least the next 12 months. This has created an army of college staff hovering around a few colleges to make sure they will have a job all year round. Regardless of the differences, all three types of non-full-time instructors are hourly paid, do not get paid-holidays, and are not guaranteed contract renewal in subsequent semesters. 
+
+Results 
+Three main themes emerged in the analysis of interview data, namely ‘don’t rock the boat’, ‘flout the policies to keep your job’, and ‘money talks’. In this section, each of these will be developed. 
+Don’t rock the boat 
+Being aware of their fixed-term contractual status, the participants often gave in to students’ requests for postponing assignments, extensions on due dates, and even 
+
+developing and running a second test for those who missed one. More importantly, the participants believed that students could influence the conduct of their professors by reporting their dissatisfaction to the chairs of departments, who would most probably ask professors to give students what they wanted: 
+Well, you’ve got to be careful, right? There’s that little grey area, because if . . . things don’t go their way, then [students might say], ‘I am gonna report this to the dean; then I am gonna take it here and I am gonna take it there’. So a lot of teachers . . . will live in fear of that; they don’t want to rock the boat or whatever. So the students will get a sense that they’ve got the teacher by, excuse the term, the short and curlies, that ‘we’ve got you where we want to; you’re not gonna do too much; you’d better give me this, or I’ll report it. I am gonna get my way anyway’. And sometimes when you escalate an issue to the higher up that looks after you, sometimes they say, ‘well, you know what, just let it go and end it up’, which to me defeats the purpose” (Participant 4). 
+The participants were aware that students’ grievances might influence the renewal of their contracts, so their priority was to maintain peace and quiet and keep students happy and satisfied. 
+Some students came to me and said the assignment was too demanding. I had put a lot of effort into designing that assignment and made sure it was aligned with the course outline . . . but I did not want them to run to the office, so I designed a much easier assignment (Participant 8). 
+
+Flout the policies; keep your job 
+There are certain policies in force in colleges to ascertain quality. One is the ‘due time’ policy for submission of assignments, according to which a penalty will apply for late submissions. There could be various reasons for this policy, including standardising submissions, giving all students an equal chance to succeed, and instigating a sense of discipline and responsibility in students. This, however, was sometimes flouted by contract instructors as they did not want to have poor student survey results that could jeopardise the renewal of their contracts: 
+I can tell you a story about a student whose professor at the end of the term was reaching out to this student to submit an assignment time and again, so they could pass, and the student ignored the emails, and once the final mark was sent on to Blackboard, then all of a sudden the student was angry that they failed. They contacted the professor, the professor said, ‘listen, I reached out to you, and now I can’t do anything about this final grade’. And I know that one month later, the student apparently met with the chair, and the chair contacted that professor, and the professor had to give another opportunity where the student submitted an assignment and passed the course (Participant 5). 
+The participating instructors had learned through experience to keep a low profile since chairs are inundated with various tasks, so they ‘do not want to see their faces, and do not want to hear their names’ (Participant 11). They had learned ‘if they want[ed] to continue with their jobs, they [had] to stop students going to the office’ (Participant 1). 
+If you’re part-time or contract, you want to make sure that you keep your job the next semester. So if there’s too many complaints from students . . . even if you’re right, [the chair] 
+might say, ‘no, we’ve had too many students come forward. It doesn’t matter what the problem is, and your contract might not be renewed’. So some people live in fear of that (Participant 4). 
+I know that the college policy about missing tests is to bring in a doctor’s report . . . once in a while I see a situation like that and sometimes I don’t mind not getting a doctor’s report because . . . if I push for one, the student might take it to the chair (Participant 2). 
+
+Money talks 
+Colleges in Ontario seem to have taken on most features of business corporations, an issue that the participating instructors were well aware of: 
+. . . the educational system at the college level is turned into a business model with the paying customer being the student; and it mimics going into a restaurant and ordering a steak and having it returned to you in a certain way, and if it’s not, you can then get your money back. And I find that the students, as they’re paying, they have that power (Participant 5). 
+One of the participants was particularly critical of this situation and believed ‘college education systems are designed to pass students’ (Participant 12). In similar comments, other participants believed that college administrators did all they could to appease students as they did not want to lose students to other colleges: 
+The college is now a business model. They’re interested in money, they’re interested in [government] grants, so if the word gets out, [students] . . . go to [a different college] (Participant 4). 
+Well, I think unfortunately nowadays in the education system, at least in North America, they look at students as clients because they’re just thinking about bringing in larger numbers and providing them with the best services (Participant 3). 
+This market-led policy is also extended to areas such as attendance and passing benchmarks: 
+Some students do not attend classes . . . they think they would get their diploma anyway (Participant 2). 
+The passing grade in our programme is 50%, which I think is very low, and this is not encouraging the students to study a little more. They are just happy with what they get by a very simple review of the topics (Participant 10). 
+
+
+Discussion 
+Neoliberalism has pushed many post-secondary institutions towards internationalisation. Two important aspects of this trend have been the implementation of policies to reduce costs and to improve quality, though it seems that the strategies adopted to realise these are antithetical. To cut costs, many institutions have turned to casualisation of academic staff, but this can negatively affect quality in two important ways. Firstly, it affects the well- being of staff (Bal et al., 2014; Courtois & O’Keefe, 2015; Hill, 2005; Jin et al., 2021), which can potentially undermine the feeling of security and hence decrease quality. As we saw in the previous section, many of the participants in this study ‘lived in fear’ due to their precarious employment status. Secondly, contract faculty might bypass certain educational policies to keep their contracts. This was most vividly apparent when the participants accommodated students by being lenient in assignments and academic policies. More importantly, the institutional policies reinforce this culture by, for instance, not making attendance a requisite to pass a course. This commodity approach to education has created a ‘client – service provider’ relationship between students and colleges in Ontario. This further supports previous findings on how a ‘market-led’ approach has turned students from ‘being learners’ to clients ‘seeking degrees’ (Molesworth et al., 2009, p. 277). 
+
+Though the results of this small-scale study should be regarded with caution, some modest suggestions are in order. If institutions intend to have a share in the highly competitive internationalised higher education market, they need to undergo accreditation, which is possible if they ‘assess, achieve, maintain, and improve’ quality (Jackson et al., 2010). The employment status of academic faculty should be factored in somewhere in this process. Some mechanisms currently practiced, such as student surveys, though somewhat effective, do not necessarily improve quality. 
+Finally, casualisation could be at best a temporary solution to reduce costs, but in the long run, it might deter students as they would realise that the education they receive neither ‘fits the purpose’ nor is ‘good value for money’ (Cheng, 2017). It seems that post- secondary institutions need to find alternative ways to reduce their costs as there should be a healthy balance between cost reduction and quality of education. 
+
+Disclosure statement 
+No potential conflict of interest was reported by the author(s). 
+
+Notes on contributor 
+Mostafa Hasrati teaches TESL teacher training courses as well as English and Communication at Seneca College, Toronto, Canada. He is interested in sociopolitical aspects of scholarly publication, and his works have appeared in Studies in Higher Education, Journal of English for Academic Purposes and Quality in Higher Education. 
+ORCID 
+Mostafa Hasrati 
+http://orcid.org/0000-0001-5863-010X 
+
+References 
+Abbott, A., & Silles, M. (2016). Determinants of international student migration. WorldEconomy, 39(5), 
+621–635. https://doi.org/10.1111/twec.12319 Agar, M. H. (1996). The professional stranger: An informal introduction to ethnography (2nd ed.). 
+Academic Press. Alderman, L., Towers, S., & Bannah, S. (2012). Student feedback systems in higher education: 
+A focused literature review and environmental scan. Quality in Higher Education, 18(3), 
+261–280. https://doi.org/10.1080/13538322.2012.730714 
+Allmer, T. (2018). ‘I am a single mum. I don’t feel like I can be as competitive as other people’: Experiences of precariously employed staff at UK universities. Work Organisation, Labour & Globalisation, 12(1), 62–77. https://doi.org/10.13169/workorgalaboglob.12.1.0062 
+Altbach, P. G. (2004). Globalisation and the university: Myths and realities in an unequal world. Tertiary Education and Management, 10(1), 3–25. https://doi.org/10.1080/13583883.2004.9967114 
+American Federation of Teachers, W. D. (2008). Reversing course: The troubled state of academic staffing and a path forward. In American federation of teachers. American Federation of Teachers, 1-32. 
+Aronowitz, S., & Giroux, H. (2000). The corporate university and the politics of education. The Educational Forum, 64(4), 332–339. https://doi.org/10.1080/00131720008984778 
+Atkinson, P., & Hammersley, M. (2007). Ethnography: Principles in practice (3rd ed.). Routledge. 
+Baker, D. N., & Miosi, T. (2010). The quality assurance of degree education in Canada. Research in Comparative and International Education, 5(1), 32–57. https://doi.org/10.2304/rcie.2010.5.1.32 
+Bal, E., Grassiani, E., & Kirk, K. (2014). Neoliberal individualism in Dutch universities: Teaching and learning anthropology in an insecure environment. Learning and Teaching, 7(3), 46–72. https:// doi.org/10.3167/latiss.2014.070303 
+Ball, S. J. (1990). Self-doubt and soft data: Social and technical trajectories in ethnographic fieldwork. Qualitative Studies in Education, 3(2), 157–171. https://doi.org/10.1080/0951839900030204 
+Berg, B. L. (2001). Qualitative research methods for the social sciences (4th ed.). Allyn and Bacon. 
+Blanco Ramírez, G., & Luu, D. H. (2018). A qualitative exploration of motivations and challenges for implementing US accreditation in three Canadian universities. Studies in Higher Education, 43(6), 989–1001. https://doi.org/10.1080/03075079.2016.1203891 
+Brittingham, B. (2009). Accreditation in the United States: How did we get to where we are? New Directions for Higher Education, 2009(145), 7–27. https://doi.org/10.1002/he.331 
+Brockx, B., Spooren, P., & Mortelmans, D. (2011). Taking the grading leniency story to the edge. The influence of student, teacher, and course characteristics on student evaluations of teaching in higher education. Educational Assessment, Evaluation and Accountability, 23(4), 289–306. https:// doi.org/10.1007/s11092-011-9126-2 
+Brown, T., Goodman, J., & Yasukawa, K. (2010). Academic casualization in Australia: Class divisions in the university. Journal of Industrial Relations, 52(2), 169–182. https://doi.org/10.1177/ 0022185609359443 
+Charmaz, K. (2000). Grounded theory: Objectivist and constructivist methods. In N. K. Denzin & 
+Y. S. Lincoln (Eds.), Handbook of qualitative research (2nd ed., pp. 509–535). Sage Publications. Cheng, M. (2017). Reclaiming quality in higher education: A human factor approach. Quality in Higher Education, 23(2), 153–167. https://doi.org/10.1080/13538322.2017.1358954 
+Courtois, A., & O’Keefe, T. (2015). Precarity in the ivory cage: Neoliberalism and casualisation of work in the Irish higher education sector. Journal for Critical Education Policy Studies, 13(1), 43–66. http://www.jceps.com/archives/2458 
+Crawford, T., & Germov, J. (2015). Using workforce strategy to address academic casualisation: A University of Newcastle case study. Journal of Higher Education Policy and Management, 37(5), 534–544. https://doi.org/10.1080/1360080X.2015.1079394 
+DeWit, H., Hunter, F., Howard, L., & Egron-Polak, E. (2015). Internationalisation of higher education. Policy Department, Directorate General for Internal Policies, European Parliament. 
+Flodén, J. (2017). The impact of student feedback on teaching in higher education. Assessment & Evaluation in Higher Education, 42(7), 1054–1068. https://doi.org/10.1080/02602938.2016. 1224997 
+Glaser, B. G., & Strauss, A. L. (1967). The discovery of grounded theory: Strategies for qualitative research. Aldine. 
+Government of Canada. (2017). Economic impact of international education in Canada—2017 update. https://www.international.gc.ca/education/report-rapport/impact-2017/sec-3.aspx?lang=eng 
+Griffin, B. (2004). Grading leniency, grade discrepancy, and student ratings of instruction. Contemporary Educational Psychology, 29(4), 410–425. https://doi.org/10.1016/j.cedpsych.2003. 11.001 
+
+Hill, D. (2005). Globalisation and its educational discontents: Neoliberalisation and its impacts on education workers’ rights, pay and conditions. International Studies in Sociology of Education, 15 (3), 257–288. https://doi.org/10.1080/09620210500200143 
+Holmwood, J., & Marcuello Servós, C. Challenges to public universities: Digitalisation, commodification and precarity. (2019). Social Epistemology: Neoliberalism, Technocracy and Higher Education, 33(4), 309–320. Guest Editors: J. Cruickshank & R. Abbinnett. https://doi.org/10.1080/02691728. 2019.1638986 
+Jackson, R. S., Davis, J. H., & Jackson, F. R. (2010). Redesigning regional accreditation: The impact on institutional planning: Regional accrediting bodies continue to sharpen their focus on student learning, with implications for planners. Planning for Higher Education, 38(4), 9–19. 
+Jin, J., Mercer, S., Babic, S., & Mairitsch, A. (2021). “You just appreciate every little kindness”: Chinese language teachers’ well-being in the UK. System, 96, 102400. (https://doi.org/10.1016/j.system. 2020.102400 ) 
+Kane Xavier, F. (2014). Alienation and precarious contract academic staff in the age of neoliberalism. Confero: Essays on Education, Philosophy and Politics, 2(1), 35–71. https://doi.org/10.3384/confero. 2001-4562.141007a 
+King, N., Horrock, C., & Brooks, J. (2019). Interviews in qualitative research (2nd ed.). Sage. 
+Kvale, S. (1996). Interviews: An introduction to qualitative research interviewing. Sage. 
+Lama, T., & Joullié, J. E. (2015). Casualization of academics in the Australian higher education: Is teaching quality at risk? Research in Higher Education Journal, 28, 1–11. https://www.aabri.com/ manuscripts/152186.pdf 
+Macfadyen, L. P., Dawson, S., Prest, S., & Gašević, D. (2016). Whose feedback? A multilevel analysis of student completion of end-of-term teaching evaluations. Assessment & Evaluation in Higher Education, 41(6), 821–839. https://doi.org/10.1080/02602938.2015.1044421 
+Marshall, D. (2004). Degree accreditation in Canada. Canadian Journal of Higher Education, 34(2), 69–96. https://doi.org/10.47678/cjhe.v34i2.183457 
+Mitchell, C. (1984). Case studies. In R. Ellen (Ed.), Ethnographic research: A guide to general conduct (pp. 237–241). Academic Press. 
+Molesworth, M., Nixon, E., & Scullion, R. (2009). Having, being and higher education: The market<BR>isation of the university and the transformation of the student into consumer. Teaching in Higher Education, 14(3), 277–287. https://doi.org/10.1080/13562510902898841 
+OECD. (2019). Education at a glance: OECD indicators. https://www.oecd-ilibrary.org/education/ education-at-a-glance_19991487 
+OPSEU Local 556. (2019). Partial load seniority list. January, 2019. http://www.opseu556.org/partial-load-seniority-list-jan-2019/ 
+OPSEU Local 562. (2021). Seniority lists. February, 2021 http://www.opseu562.org/seniority-lists-sept -1-2017 
+Robertson, M., & Fyffe, J. (2019). What happens to doctoral supervision when university departments have high levels of precarious academic employment?: An Australian case study. Innovations in Education and Teaching International, 56(5), 652–662. https://doi.org/10.1080/14703297.2018. 1522268 
+Roller, R., Andrews, B., & Bovee, S. (2003). Specialized accreditation of business schools: A comparison of alternative costs, benefits, and motivations. Journal of Education for Business, 78(4), 197–204. https://doi.org/10.1080/08832320309598601 
+Ross, A. (2008). The offshore model for universities. Liberal Education, 94(4), 34–39. 
+Ryan, J. (2011). Teaching and learning for international students: Towards a transcultural approach. Teachers and Teaching, 17(6), 631–648. https://doi.org/10.1080/13540602.2011.625138 
+Saunders, D. B., & Blanco Ramirez, G. (2017). Resisting the neoliberalization of higher education: A challenge to commonsensical understandings of commodities and consumption. Cultural Studies/Critical Methodologies, 17(3), 189–196. https://doi.org/10.1177/1532708616669529 
+Shore, C., & Davidson, M. (2014). Beyond collusion and resistance: Academic-management relations within the neoliberal university. Learning and Teaching, 7(1), 12–28. https://doi.org/10.3167/latiss. 2014.070102 
+Simpson, P., & Siguaw, J. (2000). Student evaluations of teaching: An exploratory study of the faculty response. Journal of Marketing Education, 22(3), 199–213. https://doi.org/10.1177/ 0273475300223004 
+Stroebe, W. (2016). Why good teaching evaluations may reward bad teaching: On grade inflation and other unintended consequences of student evaluations. Perspectives on Psychological Science, 11(6), 800–816. https://doi.org/10.1177/1745691616650284 
+Torres, C. A., & Rhoads, R. A. (2006). Introduction: Globalisation and higher education in Americas. In 
+R. A. Rhoads & C. A. Torres (Eds.), The University, state, and market: The political economy of globalization in Americas (pp. 3–38). Stanford University Press. Wacquant, L. (2012). Three steps to a historical anthropology of actually existing neoliberalism. Social Anthropology, 20(1), 66–79. https://doi.org/10.1111/j.1469-8676.2011.00189.x 
+Widarsyah, R., Ghiselli, R. F., & Adler, H. (2017). Quality assurance in hospitality and tourism higher education: Administrators’ view of ACPHA accreditation -An exploratory study. Journal of Quality Assurance in Hospitality & Tourism, 18(2), 235–257. https://doi.org/10.1080/1528008X.2016. 1208599 
+Zammuto, R. (2008). Accreditation and the globalization of business. Academy of Management Learning & Education, 7(2), 256–268. https://doi.org/10.5465/amle.2008.32712623 
+
+Appendix 
+Interview Guide for Semi-Structured Interviews 
+(1) 
+How long have you been teaching in colleges? 
+
+(2) 
+What is your employment status? 
+
+(3) 
+Can you tell me the story of the most ‘difficult’ student you have had? How typical is this? 
+
+(4) 
+Can you tell me a story about a time when you flouted a policy, e.g. late submission penalty? 
+
+(5) 
+Have you noticed any change in student-professor interactions since you started teaching in college? 
+
+(6) 
+What do you think about Student Feedback Questionnaires (SFQs)? 
+
+
+
+
+
